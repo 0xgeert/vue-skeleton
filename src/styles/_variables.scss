@@ -1,0 +1,9 @@
+
+//TODO:
+//overwrite bootstrap variables here
+
+//import bootstrap variables. This is useful so our own css can use bootstrap variables
+//note: since botostrap using scss !default construct, we define our own
+//variables BEFORE importing bootstrap variables
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/variables";
+
